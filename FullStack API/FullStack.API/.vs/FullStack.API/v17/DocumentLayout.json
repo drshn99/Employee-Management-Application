@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\.Net Recent\\Employee Management\\FullStack API\\FullStack.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46E68153-6C0F-4444-935F-1CD8A21B7F58}|FullStack.API\\FullStack.API.csproj|c:\\.net recent\\employee management\\fullstack api\\fullstack.api\\fullstack.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E68153-6C0F-4444-935F-1CD8A21B7F58}|FullStack.API\\FullStack.API.csproj|solutionrelative:fullstack.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E68153-6C0F-4444-935F-1CD8A21B7F58}|FullStack.API\\FullStack.API.csproj|c:\\.net recent\\employee management\\fullstack api\\fullstack.api\\fullstack.api\\migrations\\20240409220059_second migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E68153-6C0F-4444-935F-1CD8A21B7F58}|FullStack.API\\FullStack.API.csproj|solutionrelative:fullstack.api\\migrations\\20240409220059_second migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E68153-6C0F-4444-935F-1CD8A21B7F58}|FullStack.API\\FullStack.API.csproj|c:\\.net recent\\employee management\\fullstack api\\fullstack.api\\fullstack.api\\migrations\\20240408211946_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E68153-6C0F-4444-935F-1CD8A21B7F58}|FullStack.API\\FullStack.API.csproj|solutionrelative:fullstack.api\\migrations\\20240408211946_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E68153-6C0F-4444-935F-1CD8A21B7F58}|FullStack.API\\FullStack.API.csproj|c:\\.net recent\\employee management\\fullstack api\\fullstack.api\\fullstack.api\\migrations\\fullstackdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E68153-6C0F-4444-935F-1CD8A21B7F58}|FullStack.API\\FullStack.API.csproj|solutionrelative:fullstack.api\\migrations\\fullstackdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E68153-6C0F-4444-935F-1CD8A21B7F58}|FullStack.API\\FullStack.API.csproj|c:\\.net recent\\employee management\\fullstack api\\fullstack.api\\fullstack.api\\data\\fullstackdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E68153-6C0F-4444-935F-1CD8A21B7F58}|FullStack.API\\FullStack.API.csproj|solutionrelative:fullstack.api\\data\\fullstackdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E68153-6C0F-4444-935F-1CD8A21B7F58}|FullStack.API\\FullStack.API.csproj|c:\\.net recent\\employee management\\fullstack api\\fullstack.api\\fullstack.api\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E68153-6C0F-4444-935F-1CD8A21B7F58}|FullStack.API\\FullStack.API.csproj|solutionrelative:fullstack.api\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E68153-6C0F-4444-935F-1CD8A21B7F58}|FullStack.API\\FullStack.API.csproj|c:\\.net recent\\employee management\\fullstack api\\fullstack.api\\fullstack.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E68153-6C0F-4444-935F-1CD8A21B7F58}|FullStack.API\\FullStack.API.csproj|solutionrelative:fullstack.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E68153-6C0F-4444-935F-1CD8A21B7F58}|FullStack.API\\FullStack.API.csproj|c:\\.net recent\\employee management\\fullstack api\\fullstack.api\\fullstack.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{46E68153-6C0F-4444-935F-1CD8A21B7F58}|FullStack.API\\FullStack.API.csproj|solutionrelative:fullstack.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240409220059_Second Migration.cs",
+              "DocumentMoniker": "C:\\.Net Recent\\Employee Management\\FullStack API\\FullStack.API\\FullStack.API\\Migrations\\20240409220059_Second Migration.cs",
+              "RelativeDocumentMoniker": "FullStack.API\\Migrations\\20240409220059_Second Migration.cs",
+              "ToolTip": "C:\\.Net Recent\\Employee Management\\FullStack API\\FullStack.API\\FullStack.API\\Migrations\\20240409220059_Second Migration.cs",
+              "RelativeToolTip": "FullStack.API\\Migrations\\20240409220059_Second Migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T22:00:59.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FullStackDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\.Net Recent\\Employee Management\\FullStack API\\FullStack.API\\FullStack.API\\Migrations\\FullStackDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "FullStack.API\\Migrations\\FullStackDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\.Net Recent\\Employee Management\\FullStack API\\FullStack.API\\FullStack.API\\Migrations\\FullStackDbContextModelSnapshot.cs",
+              "RelativeToolTip": "FullStack.API\\Migrations\\FullStackDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T21:59:07.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\.Net Recent\\Employee Management\\FullStack API\\FullStack.API\\FullStack.API\\Program.cs",
+              "RelativeDocumentMoniker": "FullStack.API\\Program.cs",
+              "ToolTip": "C:\\.Net Recent\\Employee Management\\FullStack API\\FullStack.API\\FullStack.API\\Program.cs",
+              "RelativeToolTip": "FullStack.API\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAjwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T21:12:34.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\.Net Recent\\Employee Management\\FullStack API\\FullStack.API\\FullStack.API\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "FullStack.API\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\.Net Recent\\Employee Management\\FullStack API\\FullStack.API\\FullStack.API\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "FullStack.API\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAwFAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T22:22:34.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240408211946_Initial Migration.cs",
+              "DocumentMoniker": "C:\\.Net Recent\\Employee Management\\FullStack API\\FullStack.API\\FullStack.API\\Migrations\\20240408211946_Initial Migration.cs",
+              "RelativeDocumentMoniker": "FullStack.API\\Migrations\\20240408211946_Initial Migration.cs",
+              "ToolTip": "C:\\.Net Recent\\Employee Management\\FullStack API\\FullStack.API\\FullStack.API\\Migrations\\20240408211946_Initial Migration.cs",
+              "RelativeToolTip": "FullStack.API\\Migrations\\20240408211946_Initial Migration.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T21:19:46.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\.Net Recent\\Employee Management\\FullStack API\\FullStack.API\\FullStack.API\\appsettings.json",
+              "RelativeDocumentMoniker": "FullStack.API\\appsettings.json",
+              "ToolTip": "C:\\.Net Recent\\Employee Management\\FullStack API\\FullStack.API\\FullStack.API\\appsettings.json",
+              "RelativeToolTip": "FullStack.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-08T21:09:56.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FullStackDbContext.cs",
+              "DocumentMoniker": "C:\\.Net Recent\\Employee Management\\FullStack API\\FullStack.API\\FullStack.API\\Data\\FullStackDbContext.cs",
+              "RelativeDocumentMoniker": "FullStack.API\\Data\\FullStackDbContext.cs",
+              "ToolTip": "C:\\.Net Recent\\Employee Management\\FullStack API\\FullStack.API\\FullStack.API\\Data\\FullStackDbContext.cs",
+              "RelativeToolTip": "FullStack.API\\Data\\FullStackDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T20:34:21.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\.Net Recent\\Employee Management\\FullStack API\\FullStack.API\\FullStack.API\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "FullStack.API\\Models\\Employee.cs",
+              "ToolTip": "C:\\.Net Recent\\Employee Management\\FullStack API\\FullStack.API\\FullStack.API\\Models\\Employee.cs",
+              "RelativeToolTip": "FullStack.API\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T20:29:41.131Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
